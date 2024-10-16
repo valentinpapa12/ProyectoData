@@ -29,7 +29,7 @@ Película que más duró según año, plataforma y tipo de duración
 
 Cantidad de series y películas por rating
 
-# jecución del proyecto:
+# Ejecución del proyecto:
 Debido a que todos los datasets presentaban la misma estructura y forma, en el archivo “data.py” decidí crear una función que automáticamente limpie y transforme los datos de cada dataset.
 
 Recibiendo únicamente un argumento (la ruta del dataset), la función retorna un dataframe de pandas con el formato deseado
